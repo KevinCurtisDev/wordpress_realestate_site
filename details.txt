@@ -1,0 +1,9 @@
+Chalets & Caviar 
+
+Make Theme
+
+The theme I used for this project is the "Make" theme. The reason I chose this theme is because it is relatively easy to use and navigate through. It also has a clean a simple design, which I feel allows for a better user experience on what could potentially be a very complex and messy user interface. The theme looks modern and allows enough customisation for it to be adapted to other client specifications.
+
+
+
+You can viw the website at the following live link: http://kevinc.sgedu.site/
